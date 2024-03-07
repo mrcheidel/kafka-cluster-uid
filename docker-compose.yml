@@ -107,8 +107,6 @@ services:
       DYNAMIC_CONFIG_ENABLED: 'true'  # not necessary, added for tests
       KAFKA_CLUSTERS_0_AUDIT_TOPICAUDITENABLED: 'true'
       KAFKA_CLUSTERS_0_AUDIT_CONSOLEAUDITENABLED: 'true'
-      #https://github.com/provectus/kafka-ui/blob/master/documentation/compose/kafka-ui-arm64.yaml
-      #https://github.com/provectus/kafka-ui
       
   kafka-init-topics:
     image: confluentinc/cp-kafka:7.2.1.arm64
