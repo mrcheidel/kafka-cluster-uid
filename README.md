@@ -1,4 +1,4 @@
-# A Kafka Cluster with Web UI running on Docker
+# A Kafka Cluster with an Admin Web UI running on Docker
 
 A docker-compose in order to create a Kafka Cluster + an Admin user interface.
 
