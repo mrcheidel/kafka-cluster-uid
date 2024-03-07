@@ -1,5 +1,6 @@
-# kafka-cluster-uid
-A docker-compose in order to create a Kafka Cluster + an Admin Web GUID
+# A Kafka Cluster with Web UI running on Docker
+
+A docker-compose in order to create a Kafka Cluster + an Admin user interface.
 
 Run the bellow command:
 ```
